@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+button {
+    margin-top:20px;
+    color:white;
+    padding:10px;
+    border:none;
+    cursor: pointer;
+}
